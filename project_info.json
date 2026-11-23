@@ -1,0 +1,13 @@
+{
+    "project_name": "Internship Shield AI",
+    "classes": {
+        "0": "Legitimate",
+        "1": "Suspicious",
+        "2": "Fraudulent"
+    },
+    "model": "Logistic Regression",
+    "vectorizer": "TF-IDF",
+    "test_accuracy": 0.9774,
+    "macro_f1": 0.8284,
+    "weighted_f1": 0.9794
+}

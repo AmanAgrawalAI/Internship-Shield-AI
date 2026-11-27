@@ -94,6 +94,14 @@ The repository includes:
 - Develop a practical AI-based tool focused on student safety.
 - Apply text preprocessing, feature extraction, and classification techniques.
 
+## App graph for prediction
+<img width="766" height="736" alt="Screenshot 2026-11-27 120258" src="https://github.com/user-attachments/assets/4fb8e30c-c396-45ea-8886-81bb6d0d3dc9" />
+
+
+## Full prediction display with graph
+<img width="1881" height="847" alt="Screenshot 2026-11-27 120326" src="https://github.com/user-attachments/assets/03d4274d-a1af-4baf-aaa9-7f3da30f3418" />
+
+
 ## 🔮 Future Improvements
 
 - Email and recruitment message analysis.

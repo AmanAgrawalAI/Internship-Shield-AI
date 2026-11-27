@@ -108,14 +108,16 @@ The repository includes:
 Internship Shield AI is an experimental machine learning project intended to support awareness and preliminary screening.
 
 Its predictions are not a guarantee that an opportunity is genuine or fraudulent. Users should independently verify employers and recruitment offers before sharing personal information or making payments.
+---
 
 ## 👨‍💻 Author
 
 **Aman Kumar**
+Aspiring Data Scientist | Python · Machine Learning · Computer Vision
 
-GitHub: [@AmanAgrawalAI](https://github.com/AmanAgrawalAI)
+[LinkedIn](https://www.linkedin.com/in/aman-kumar-788677378) • [GitHub](https://github.com/AmanAgrawalAI) • [Email](https://mail.google.com/mail/?view=cm&fs=1&to=amanagrawal06922@gmail.com)
 
----
+
 
 ⭐ If you find this project interesting, consider giving the repository a star!
 
